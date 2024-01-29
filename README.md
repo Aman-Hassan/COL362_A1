@@ -1,2 +1,2 @@
-# COL362-Assignments
-Repository for 2302 COL362 Course Assignments
+# COL362_A1
+Undestanding PSQL Commands
