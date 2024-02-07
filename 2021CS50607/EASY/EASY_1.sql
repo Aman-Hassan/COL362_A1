@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM patients WHERE Gender = 'F' AND (anchor_age >= 18 AND anchor_age <= 30)
